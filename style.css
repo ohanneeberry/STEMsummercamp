@@ -1,0 +1,23 @@
+ body { 
+        background-image: url("http://facweb.cs.depaul.edu/sgrais/images/Indigo/Aqua-Indigo-104.jpg")
+    } 
+    p.hidden {border-style: hidden}
+    p.double {border-style: double;}
+    h1 { color: cornsilk; text-align:center; font-family: papyrus; }
+    p { color: white; text-align:center; font-family: papyrus;} 
+    ul { text-align:center; color: white;  font-family: papyrus;}
+    h2 { color: cornsilk; text-align:center; font-family: papyrus; }
+    img {text-align:center;}
+    #pink { color:fuchsia; text-align: center; font-family: papyrus }
+    pre {max-height: 350px;
+        overflow-y: scroll;
+        background-color: #DDDDDD;
+        border: 1px dashed rgb(176, 176, 176);
+        margin: 10px;
+        padding: 0 5px 5px 5px;
+        font-size: 14px;
+        font-family: courier new,courier,monospace;
+        width: 40%;
+        margin: auto;}
+    #bdouble {border-style: double;}
+    
